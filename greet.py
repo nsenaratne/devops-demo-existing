@@ -1,2 +1,6 @@
+#Added "There"
+
 def Greet(name):
-    print("Hello ", name)
+    print("Hello there", name)
+
+# Added bug fix
