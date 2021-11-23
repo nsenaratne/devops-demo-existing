@@ -1,4 +1,2 @@
-
-#The main
 def Greet(name):
     print("Hello ", name)
